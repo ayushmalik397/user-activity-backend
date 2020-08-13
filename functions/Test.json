@@ -1,0 +1,232 @@
+{
+  "members": [
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 18 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 22 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "7QCG26MNJ",
+      "real_name": "Danielle Bennett",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "QFI2RLJSW",
+      "real_name": "Saxon Singleton",
+      "tz": "Europe/Paris",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "DJTIH28IR",
+      "real_name": "Saeed Davey",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "QG7GU47IG",
+      "real_name": "Hudson Ashton",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "F3366UCSA",
+      "real_name": "Tamera Phillips",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3CDE",
+      "real_name": "Herbie Berry",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "R3FGWNXR1",
+      "real_name": "Phillip Blanchard",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "YCXIP2FKF",
+      "real_name": "Breanna Lim",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "YW9FZ9HPS",
+      "real_name": "Evie Hilton",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "4MRYFQ8SK",
+      "real_name": "Devan Colon",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    }
+  ]
+}
